@@ -1,6 +1,6 @@
 # Kimia Farma Business Performance Analysis (2020-2023)
 
-**📌 Repository ini dibuat untuk kepentingan evaluasi kinerja bisnis Kimia Farma dan digunakan dalam program internship Big Data Analytics.**
+**Repository ini dibuat untuk kepentingan evaluasi kinerja bisnis Kimia Farma dan digunakan dalam program internship Big Data Analytics.**
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis kinerja bisnis Kimia Farma dari tahun 2020 hingga 2023 menggunakan data transaksi, inventaris, dan informasi cabang yang tersedia. Analisis ini dilakukan menggunakan **Google BigQuery** untuk mengelola dan mengolah data serta **Google Looker Studio** untuk visualisasi dan pembuatan dashboard.
