@@ -3,7 +3,7 @@
 **Repository ini dibuat untuk kepentingan penjelasan project akhir evaluasi kinerja bisnis Kimia Farma dan digunakan dalam program internship Big Data Analytics.**
 
 ## Deskripsi Proyek
-Proyek ini bertujuan untuk menganalisis kinerja bisnis Kimia Farma dari tahun 2020 hingga 2023 menggunakan data transaksi, inventaris, dan informasi cabang yang tersedia. Analisis ini dilakukan menggunakan **Google BigQuery** untuk mengelola dan mengolah data serta **Google Looker Studio** untuk visualisasi dan pembuatan dashboard.
+Proyek ini bertujuan untuk menganalisis kinerja bisnis Kimia Farma dari tahun 2020 hingga 2023 menggunakan data transaksi, inventory, produk dan informasi cabang yang tersedia. Analisis ini dilakukan menggunakan **Google BigQuery** untuk mengelola dan mengolah data serta **Google Looker Studio** untuk visualisasi dan pembuatan dashboard.
 
 ## Dataset
 Terdapat empat dataset utama yang diimpor ke dalam **Google BigQuery**:
